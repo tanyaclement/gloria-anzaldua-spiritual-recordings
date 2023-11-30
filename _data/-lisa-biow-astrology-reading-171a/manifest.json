@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://tanyaclement.github.io/gloria-anzaldua-spiritual-recordings/-lisa-biow-astrology-reading-171a/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ " Lisa Biow, Astrology Reading 171a" ] },
+    "label": { "en": [ "Lisa Biow, Astrology Reading 171a" ] },
     "provider": [
       {
         "id": "https://www.lib.utexas.edu/about/locations/benson",
