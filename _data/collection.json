@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Gloria Anzaldúa's Spiritual Recordings" ] },
+    "summary": { "en": [ "This project includes Gloria Anzaldúa's astrology and palmistry recordings held at the LLILAS Benson Collections at the University of Texas" ] },
+    "items": [
+    ]
+}
