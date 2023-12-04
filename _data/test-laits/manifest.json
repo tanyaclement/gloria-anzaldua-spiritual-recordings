@@ -23,6 +23,40 @@
         "id": "https://tanyaclement.github.io/gloria-anzaldua-spiritual-recordings/test-laits/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3400.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/gloria-anzaldua-spiritual-recordings/annotations/test-laits-canvas-1-carvel-collins.json",
+            "label": {
+              "none": ["Carvel Collins"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/gloria-anzaldua-spiritual-recordings/annotations/test-laits-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/gloria-anzaldua-spiritual-recordings/annotations/test-laits-canvas-1-w-m--frohock.json",
+            "label": {
+              "none": ["W.M. Frohock"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/gloria-anzaldua-spiritual-recordings/annotations/test-laits-canvas-1-program.json",
+            "label": {
+              "none": ["Program"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/gloria-anzaldua-spiritual-recordings/test-laits/canvas-1/paintings",
