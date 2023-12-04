@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/gloria-anzaldua-spiritual-recordings/annotations/test-laits-canvas-1-audience.json",
-            "label": {
-              "none": ["Audience"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/gloria-anzaldua-spiritual-recordings/annotations/test-laits-canvas-1-w-m--frohock.json",
             "label": {
               "none": ["W.M. Frohock"]
